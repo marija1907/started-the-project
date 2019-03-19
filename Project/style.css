@@ -1,0 +1,15 @@
+.nav{
+	width:100%;
+	background-color:grey;
+	margin-top:25px;
+	padding:10px;
+}
+.nav a{
+	display: inline;
+	font-size:24px;
+	margin:10px;
+	padding:20px;
+	
+
+	
+}
